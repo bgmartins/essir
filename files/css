@@ -1,3 +1,5 @@
+/* Adapted from https://www.iri.upc.edu/workshops/RoboticsAISummerSchool2021/ */
+
 /* cyrillic-ext */
 @font-face {
   font-family: 'Nunito Sans';
