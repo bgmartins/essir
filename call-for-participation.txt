@@ -11,14 +11,13 @@ Important Dates
 * Late Registration Deadline: June 15th 2022
 * Summer School: July 18th-23rd 2022
 
-
 Topics and Intended Audience
 ---------------
 The European Summer School in Information Retrieval (ESSIR) is held on a regular basis, providing high quality teaching of Information Retrieval (IR) and advanced IR topics to an audience of researchers and research students. The mission of the school is to enable students to learn about modern research challenges and methods in information retrieval and related disciplines; to stimulate scientific research and collaboration in these fields; and to grow a community of researchers, students, and industry professionals working on information retrieval with collaborations all around the world.
  
 ESSIR 2022 will be a 5-day event (18-23 July, 2022) that will offer a high quality teaching on IR and related research topics, in a friendly atmosphere. A new edition of the Symposium on Future Directions in Information Access (FDIA) will also be held at ESSIR 2022, which will provide a forum for early researchers to present their research in a friendly environment, whilst among senior researchers.
 
-Our target audience is:
+The target audience is:
 * Researchers and graduate students in information retrieval and related fields;
 * Computer scientists who have related interests;
 * Industry practitioners who desire a more in depth understanding of these subjects.
@@ -29,22 +28,18 @@ List of Confirmed Speakers
 Asia Biega | MAX-PLANCK-INSTITUT FÜR INFORMATIK
 Andrew Yates | UNIVERSITY OF AMSTERDAM
 Byron Wallace | NORTHEASTERN UNIVERSITY
-BARBARA PLANK | University of Copenhagen | Denmark
-BHIKSHA RAJ | Carnegie Mellon University | USA
-CHRIS DYER | Google Deepmind | UK
-ELIAS BAREINBOIM | Columbia University | USA
-HANNANEH HAJISHIRZI | University of Washington | USA
-LUÍS PEDRO COELHO | Fudan University | China
-KYUNGHYUN CHO | New York University | USA
-NOAH SMITH | University of Washington & Allen Institute for Artificial Intelligence | USA
-MÁRIO FIGUEIREDO | University of Lisbon & Instituto de Telecomunicações | Portugal
-STEFAN RIEZLER | Heidelberg University | Germany
-SLAV PETROV | Google Inc. | USA
-XAVIER CARRERAS | Artificial Intelligence Research Institute, CSIC | Spain
+Dietmar Jannach | UNIVERSITY OF KLAGENFURT
+Fabrizio Sebastiani | ITALIAN NATIONAL COUNCIL OF RESEARCH
+Jeff Dalton | UNIVERSITY OF GLASGOW
+Maarten de Rijke | UNIVERSITY OF AMSTERDAM
+Nicola Ferro | UNIVERSITY OF PADUA
+Nils Reimers | HUGGINGFACE
+Norbert Fuhr | UNIVERSITY OF DORTMUND
+Ricardo Baeza-Yates | NORTHEASTERN UNIVERSITY
 
 Please visit our webpage for up to date information: http://essir2022.org
 
-To apply, please fill the form in https://forms.gle/F4AWNjBe36Tgx4R96
+To apply, please fill the application form: https://forms.gle/F4AWNjBe36Tgx4R96
 Any questions should be directed to: essir-2022@googlegroups.com
 
 We are looking forward to your participation!
