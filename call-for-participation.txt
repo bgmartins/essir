@@ -6,13 +6,13 @@ ESSIR 2022 - 13th European Summer School in Information Retrieval
 We invite everyone interested in Information Retrieval to attend the 13th European Summer School in Information Retrieval  - ESSIR 2022.
 
 Important Dates
----------------
+-----------------------------------------------------------------
 * Early Registration Deadline: May 31st 2022
 * Late Registration Deadline: June 15th 2022
 * Summer School: July 18th-23rd 2022
 
 Topics and Intended Audience
----------------
+-----------------------------------------------------------------
 The European Summer School in Information Retrieval (ESSIR) is held on a regular basis, providing high quality teaching of Information Retrieval (IR) and advanced IR topics to an audience of researchers and research students. The mission of the school is to enable students to learn about modern research challenges and methods in information retrieval and related disciplines; to stimulate scientific research and collaboration in these fields; and to grow a community of researchers, students, and industry professionals working on information retrieval with collaborations all around the world.
  
 ESSIR 2022 will be a 5-day event (18-23 July, 2022) that will offer a high quality teaching on IR and related research topics, in a friendly atmosphere. A new edition of the Symposium on Future Directions in Information Access (FDIA) will also be held at ESSIR 2022, which will provide a forum for early researchers to present their research in a friendly environment, whilst among senior researchers.
@@ -23,18 +23,18 @@ The target audience is:
 * Industry practitioners who desire a more in depth understanding of these subjects.
 
 List of Confirmed Speakers
----------------
+-----------------------------------------------------------------
 
-Asia Biega | MAX-PLANCK-INSTITUT FÜR INFORMATIK
-Andrew Yates | UNIVERSITY OF AMSTERDAM
-Byron Wallace | NORTHEASTERN UNIVERSITY
-Dietmar Jannach | UNIVERSITY OF KLAGENFURT
+Asia Biega          | MAX-PLANCK-INSTITUT FÜR INFORMATIK
+Andrew Yates        | UNIVERSITY OF AMSTERDAM
+Byron Wallace       | NORTHEASTERN UNIVERSITY
+Dietmar Jannach     | UNIVERSITY OF KLAGENFURT
 Fabrizio Sebastiani | ITALIAN NATIONAL COUNCIL OF RESEARCH
-Jeff Dalton | UNIVERSITY OF GLASGOW
-Maarten de Rijke | UNIVERSITY OF AMSTERDAM
-Nicola Ferro | UNIVERSITY OF PADUA
-Nils Reimers | HUGGINGFACE
-Norbert Fuhr | UNIVERSITY OF DORTMUND
+Jeff Dalton         | UNIVERSITY OF GLASGOW
+Maarten de Rijke    | UNIVERSITY OF AMSTERDAM
+Nicola Ferro        | UNIVERSITY OF PADUA
+Nils Reimers        | HUGGINGFACE
+Norbert Fuhr        | UNIVERSITY OF DORTMUND
 Ricardo Baeza-Yates | NORTHEASTERN UNIVERSITY
 
 Please visit our webpage for up to date information: http://essir2022.org
